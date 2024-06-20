@@ -4,10 +4,11 @@ project:
 website: 
   page-navigation: true
   title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  site-url: "https://acossio.github.io/ESD-glider-website/" 
+  repo-url: "https://github.com/acossio/ESD-glider-website"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
+  search: true
   
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
@@ -22,10 +23,10 @@ website:
     tools: 
       - icon: globe
         href: https://nmfs-opensci.github.io
-        text: "NMFS Open Science"
+        text: "ESD glider"
       - icon: github
-        href: https://github.com/nmfs-opensci
-        text: "NMFS OpenSci"
+        href: https://github.com/acossio/ESD-glider-website
+        text: "ESD Github"
 
     style: "docked"
     search: true
