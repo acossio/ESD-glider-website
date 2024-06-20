@@ -3,7 +3,7 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
+  title: "ESD Glider Lab" 
   site-url: "https://acossio.github.io/ESD-glider-website/" 
   repo-url: "https://github.com/acossio/ESD-glider-website"
   repo-actions: [edit, source, issue]
@@ -22,7 +22,7 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-opensci.github.io
+        href: https://github.com/acossio/ESD-glider-website
         text: "ESD glider"
       - icon: github
         href: https://github.com/acossio/ESD-glider-website
